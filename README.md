@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Believe
+Believe in yourself
